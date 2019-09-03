@@ -1,0 +1,18 @@
+{"name" : "Haleluia.net",
+    "short_name" : "haleluia",
+    "description" : "WebRádio Haleluia.net",
+    "start_url" : "http://localhost:8080",
+    "display" : "fullscreen",
+    "lang" : "Portuguese",
+    "scope" : "/",
+    "icons" : [
+        {
+            "src" : "logo.png",
+            "size" : "60x60"
+        },
+        {
+            "src" : "icon144.png",
+            "size" : "144x144"
+        }
+		
+    ]}
